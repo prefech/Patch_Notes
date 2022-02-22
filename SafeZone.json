@@ -1,0 +1,5 @@
+{
+    "date": "Feb 22, 2022",
+    "version": "1.0.0.1",
+    "changelog": "Added:\n• Disabled being able to hit people when you are unarmed. (You can disable this by adding 'WEAPON_UNARMED' to the bypass)."
+}

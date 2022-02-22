@@ -1,0 +1,5 @@
+{
+    "date": "Feb 22, 2022",
+    "version": "1.0.0.1",
+    "changelog": "Added:\n• Sound option to the export. (set it to false to disable the sound.)\n• Config for sound volume.\n\nFixed:\n• Scrollbar issue on some resolutions.\n\nChanged:\n• Default notification sound."
+}

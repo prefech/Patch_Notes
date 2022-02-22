@@ -1,0 +1,5 @@
+{
+    "date": "Feb 7, 2022",
+    "version": "1.0.0.7",
+    "changelog": "Added:\n• Version checker.\n\nFixed:\n• issue in the /timeout command."
+}
