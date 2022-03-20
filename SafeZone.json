@@ -1,5 +1,5 @@
 {
-    "date": "Feb 22, 2022",
+    "date": "Mar 20, 2022",
     "version": "1.0.0.1",
-    "changelog": "Added:\n• Disabled being able to hit people when you are unarmed. (You can disable this by adding 'WEAPON_UNARMED' to the bypass)."
+    "changelog": "Added:\n• Option to change the border color for each zone independently.\n\nChanged:\n• Weapon bypass is now set for each zone independently."
 }
