@@ -1,5 +1,5 @@
 {
-    "date": "Feb 7, 2022",
-    "version": "1.0.0.7",
-    "changelog": "Added:\n• Version checker.\n\nFixed:\n• issue in the /timeout command."
+    "date": "Jul 13, 2022",
+    "version": "1.0.0.8",
+    "changelog": "Added:\n• Option to fire functions from the commands.\n• Option to use a custom function to get the name.\n\nFixed:\n• issue in the /hide command."
 }
