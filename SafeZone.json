@@ -1,5 +1,5 @@
 {
-    "date": "Mar 20, 2022",
-    "version": "1.0.0.2",
-    "changelog": "Added:\n• Option to change the border color for each zone independently.\n\nChanged:\n• Weapon bypass is now set for each zone independently."
+    "date": "25 Jul, 2022",
+    "version": "1.0.0.3",
+    "changelog": "Fixed:\n• Issue with not being able to shoot after a while using sphere zones."
 }
